@@ -1,0 +1,49 @@
+label {
+    width: 200px;
+    display: inline-block;
+    text-align: right;
+}
+
+#color {
+    width: 200px;
+    border: none;
+}
+
+.left {
+    text-align: left;
+}
+
+h1 {
+    color: #285dab;
+    font-family: DobraSlabMedium,Georgia,Times New Roman,Times,"Droid Serif",serif;
+}
+
+img {
+   position: relative; top: -9px; left: -9px;
+}
+
+h2 {
+    color: #285dab;
+    font-family: DobraSlabMedium,Georgia,Times New Roman,Times,"Droid Serif",serif;
+}
+
+#footer {
+    height: 60px;
+    width: 750px;
+    background-color: rgb(233, 227, 227);
+}
+
+button {
+    float: right;
+    height: 45px;
+    width: 115px;
+    margin-top: 8px;
+    background-color: rgb(48, 204, 48);
+    border: darkgreen;
+    border-radius: 6px;
+    font-size: 20px; color: white;
+}
+
+.wrapper {
+    margin-left: 80px;
+}
