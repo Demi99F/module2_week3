@@ -1,0 +1,275 @@
+* {
+    font-family: 'Courier New', Courier, monospace
+}
+
+#container {
+    height: 1500px;
+    width: 1200px;
+    border: 1px solid black;
+}
+
+#header {
+    width: 1200px;
+    height: 180px;
+    border: 1px solid black;
+    margin-bottom: 60px;
+}
+
+.een {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    font-size: 17px;
+    text-align: center;
+}
+
+.twee {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+}
+
+#harry {
+   float: left;
+   margin-left: 10px;
+}
+
+#dune {
+    float: left;
+    margin-left: 10px;
+}
+
+#boek {
+    float: left;
+    margin-left: 10px;
+}
+.drie {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align:center;  
+}
+
+.nieuws {
+    margin-top: 40px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: rgb(132, 79, 41);
+    height: 25px;
+    border: none;
+    color: white;
+}
+
+.vier {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+}
+
+.vijf {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+}
+
+.zes {
+    height: 290px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.ding {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+}
+
+.dingtwee {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+}
+
+.dingdrie {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-left: 10px;
+}
+
+.dingvier {
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px;
+    margin-left: 260px;
+}
+
+.dingvijf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingzes {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingzeven {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingacht {
+
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-left: 310px;
+    margin-top: 10px;
+}
+
+.dingnegen {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingtien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingelf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingtwaalf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 125px;
+    margin-top: 10px;
+}
+
+.dingdertien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 1000000px;
+    margin-top: 10px;
+}
+
+
+.dingvijftien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingzestien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingzeventien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingachtien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 125px;
+    margin-top: 10px;
+}
+
+.slider {
+    margin-top: 80px;
+    accent-color: rgb(179, 124, 22) ;
+}
+
+label {
+    margin-left: 10px;
+}
+
+.t {
+    margin-left: 110px;
+}
+
+a:link {
+    color: black;
+}
